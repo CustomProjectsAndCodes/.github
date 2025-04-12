@@ -10,7 +10,6 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 ## 💻 Yetkinliklerim
 
 ### 🖥 BACKEND .NET DEVELOPER
-  - NTier Architecture
   - Clean Architecture (with CQRS Pattern)
   - Domain Driven Design (Entity, Value Object, Domain Event)
 
@@ -21,6 +20,7 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 - SOLID
 - YAGNI
 - DRY
+- KISS
 
 ## 📚 SÜREKLİ KULLANDIĞIM KÜTÜPHANELER
 - Serilog #Serilog
@@ -33,6 +33,7 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 - Seq #Seq
 - SmartEnum #SmartEnum
 - MediatR #MediatR
+- SignalR
 
 ## 🛠 KULLANDIĞIM TASARIM DESENLERİ
 - Result Pattern #ResultPattern
@@ -59,8 +60,4 @@ Kendime ait çeşitli NuGet paketleri geliştirdim ve aktif olarak kullanmaktay�
 - .NET Core
 - Angular
 - SQL Server, PostgreSQL, MySQL
-- RESTful API geliştirm
-- 
-## 📑 REFERANSLARIM
-- [Taner Saydam](https://www.linkedin.com/in/taner-saydam/)
-- [Caner MOLLAOĞLU](https://www.linkedin.com/in/canermollaoglu/)
+- RESTful API geliştirme
