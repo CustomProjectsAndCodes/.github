@@ -12,6 +12,7 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 ### 🖥 BACKEND .NET DEVELOPER
   - Clean Architecture (with CQRS Pattern)
   - Domain Driven Design (Entity, Value Object, Domain Event)
+  - MicroServices
 
 ### 🖥 FULLSTACK .NET DEVELOPER
 - Angular ile FullStack geliştirme, ancak backend tarafında daha verimli olabilirim.
