@@ -16,6 +16,8 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 
 ### 🖥 FULLSTACK .NET DEVELOPER
 - Angular ile FullStack geliştirme, ancak backend tarafında daha verimli olabilirim.
+- WebRTC ile ilgili geliştirmelerde bulunmaktayım.
+- Blazor geliştirmeler yapmaktayım.
 
 ## 📐 KULLANDIĞIM PRENSİPLER
 - SOLID
@@ -26,6 +28,7 @@ Backend .NET Developer olarak, NTier Architecture, Clean Architecture ve Domain 
 ## 📚 SÜREKLİ KULLANDIĞIM KÜTÜPHANELER
 - Serilog #Serilog
 - AutoMapper #AutoMapper
+- Mapster #Mapster
 - FluentValidation #FluentValidation
 - EntityFrameworkCore #EntityFrameworkCore
 - Identity #Identity
